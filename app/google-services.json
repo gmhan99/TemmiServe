@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "92130002163",
+    "firebase_url": "https://temmifarm-default-rtdb.firebaseio.com",
+    "project_id": "temmifarm",
+    "storage_bucket": "temmifarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92130002163:android:0e1f857857f763c0192386",
+        "android_client_info": {
+          "package_name": "com.example.temicommunication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92130002163-cntrk6sfemhec80lshpt0c8qa9rc4p8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzloFys93n9vi2HlLcUZDUvYeGcwdss8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92130002163-cntrk6sfemhec80lshpt0c8qa9rc4p8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92130002163:android:2a397ca7bd6f3c1d192386",
+        "android_client_info": {
+          "package_name": "com.example.temmiserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92130002163-cntrk6sfemhec80lshpt0c8qa9rc4p8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzloFys93n9vi2HlLcUZDUvYeGcwdss8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92130002163-cntrk6sfemhec80lshpt0c8qa9rc4p8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
